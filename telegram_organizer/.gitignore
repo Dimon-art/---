@@ -1,0 +1,12 @@
+# Секреты и локальное окружение
+.env
+.venv/
+venv/
+
+# Сессия Telethon (содержит ключ авторизации аккаунта)
+*.session
+*.session-journal
+
+# Кэш Python
+__pycache__/
+*.py[cod]
